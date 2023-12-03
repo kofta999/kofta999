@@ -1,7 +1,7 @@
 # Hello there!
 
 <div align="justify">
-    My name is Mostafa and I'm a Student who's currently learning Full stack developemnt and loves to work with JavaScript technologies. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Mostafa, I'm a Student who's currently learning Full stack development and loves to work with JavaScript technologies. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/mostafa-m-helmy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -11,14 +11,6 @@
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -31,16 +23,32 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
-        alt="VueJS"
+        alt="HTML"
       />
-      <br /><strong>Vue</strong>
+      <br /><strong>HTML</strong>
     </td>
-  </tr>
-  <tr>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+        </td>
+            <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -49,7 +57,7 @@
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
@@ -67,23 +75,34 @@
       />
       <br /><strong>MongoDB</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+      <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="48"
         height="48"
-        alt="PostgreSQL"
+        alt="TypeScript"
       />
-      <br /><strong>PostgreSQL</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="MySQL"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        width="48"
+        height="48"
+        alt="GraphQL"
+      />
+      <br /><strong>GraphQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -103,14 +122,24 @@
       />
       <br /><strong>Docker</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         width="48"
         height="48"
-        alt="AWS"
+        alt="Linux"
       />
-      <br /><strong>AWS</strong>
+      <br /><strong>Linux</strong>
+    </td>
+        </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="48"
+        height="48"
+        alt="VS Code"
+      />
+      <br /><strong>VS Code</strong>
     </td>
   </tr>
 </table>
@@ -118,10 +147,8 @@
 # 📈 Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=michalosman&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=kofta999&show_icons=true&theme=react&&hide_border=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kofta999&&theme=react&&hide_border=true"
 />
-<br/>
-![](https://komarev.com/ghpvc/?username=michalosman)
