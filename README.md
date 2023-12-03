@@ -6,6 +6,7 @@
 
 <br/><a href="https://www.linkedin.com/in/mostafa-m-helmy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:mostafa.m.helmy@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
+<a href="https://twitter.com/mostafadev12"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
 
 # Technologies & Tools
 
@@ -144,7 +145,7 @@
   </tr>
 </table>
 
-# 📈 Stats
+# Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=kofta999&show_icons=true&theme=react&&hide_border=true"
