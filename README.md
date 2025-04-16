@@ -1,149 +1,109 @@
-# Hello there!
+# こんにちは！ Hello!
 
 <div align="justify">
-    My name is Mostafa, I'm a Student who's currently learning Full stack development and loves to work with JavaScript technologies. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Mostafa, I'm a student who's currently learning Full Stack development and loves to work with JavaScript technologies. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/mostafa-m-helmy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:mostafa.m.helmy@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
 <a href="https://twitter.com/mostafadev12"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
 
-# Technologies & Tools
+<div>
+  <h2>Languages</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+    <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust logo" />
+    <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go logo" />
+    <img src="https://skillicons.dev/icons?i=zig" height="40" alt="Zig logo" />
+  </div>
+</div>
 
-<table>
-  <tr>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="ReactJS"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-        </td>
-            <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-  </tr>
-  <tr>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-        width="48"
-        height="48"
-        alt="GraphQL"
-      />
-      <br /><strong>GraphQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-      <br /><strong>Linux</strong>
-    </td>
-        </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        width="48"
-        height="48"
-        alt="VS Code"
-      />
-      <br /><strong>VS Code</strong>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<div>
+  <h2>Frontend Development</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
+    <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="Svelte logo" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=astro" height="40" alt="Astro logo" />
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+    <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Vitest logo" />
+    <img src="https://skillicons.dev/icons?i=svg" height="40" alt="SVG logo" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
+  </div>
+</div>
+
+<br/>
+
+<div>
+  <h2>Backend Development</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+    <img src="https://skillicons.dev/icons?i=bun" height="40" alt="Bun logo" />
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
+    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo" />
+    <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx logo" />
+    <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Tauri logo" />
+    <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest logo" />
+  </div>
+</div>
+
+<br/>
+
+<div>
+  <h2>Databases</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite logo" />
+    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo" />
+  </div>
+</div>
+
+<br/>
+
+<div>
+  <h2>DevOps & Cloud</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+  </div>
+</div>
+
+<br/>
+
+<div>
+  <h2>Tools & Utilities</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
+    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+    <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim logo" />
+    <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian logo" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord logo" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow logo" />
+    <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown logo" />
+    <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux logo" />
+    <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows logo" />
+
+  </div>
+</div>
+
+<br/>
+
 
 # Stats
 
