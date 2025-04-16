@@ -4,10 +4,6 @@
     My name is Mostafa, I'm a student who's currently learning Full Stack development and loves to work with JavaScript technologies. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
-<br/><a href="https://www.linkedin.com/in/mostafa-m-helmy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:mostafa.m.helmy@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
-<a href="https://twitter.com/mostafadev12"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
-
 <div>
   <h2>Languages</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
