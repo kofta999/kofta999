@@ -43,11 +43,12 @@
   <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
     <img src="https://skillicons.dev/icons?i=bun" height="40" alt="Bun logo" />
+    <img src="https://github.com/user-attachments/assets/c17c5897-0d59-47ca-a931-467d1fdbfbcf" height="40" alt="Hono logo" />
     <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
     <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+    <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Tauri logo" />
     <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo" />
     <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx logo" />
-    <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Tauri logo" />
     <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest logo" />
   </div>
 </div>
