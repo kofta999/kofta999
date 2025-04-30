@@ -105,8 +105,6 @@
 # Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kofta999&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=kofta999&show_icons=true&theme=react&hide_border=true"
 />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=kofta999&&theme=react&&hide_border=true"
-/>
+<img src="https://github-readme-streak-stats-abghan.vercel.app?user=kofta999&theme=react&hide_border=true" alt="GitHub Streak" />
