@@ -1,7 +1,7 @@
 # こんにちは！ Hello!
 
 <div align="justify">
-    My name is Mostafa, I'm a student who's currently learning Full Stack development and loves to work with JavaScript technologies. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+I'm a Backend Developer & Cloud Architecture Student at ITI. Passionate about TypeScript, Rust, and Linux
 </div>
 
 <div>
@@ -71,6 +71,7 @@
 <div>
   <h2>DevOps & Cloud</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure logo" />
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
@@ -104,7 +105,4 @@
 
 # Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kofta999&show_icons=true&theme=react&hide_border=true"
-/>
 <img src="https://github-readme-streak-stats-abghan.vercel.app?user=kofta999&theme=react&hide_border=true" alt="GitHub Streak" />
