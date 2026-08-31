@@ -1,7 +1,7 @@
 # こんにちは！ Hello!
 
 <div align="justify">
-I'm a Backend Developer & Cloud Architecture Student at ITI. Passionate about TypeScript, Rust, and Linux. 
+I'm a Backend / DevOps Engineer & Cloud Architecture Track Graduate from ITI. Passionate about TypeScript, Rust, and Linux. 
 Currently specialized in DevOps Engineering and Cloud Infrastructure.
 </div>
 
