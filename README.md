@@ -8,11 +8,11 @@ Currently specialized in DevOps Engineering and Cloud Infrastructure.
 <div>
   <h2>Languages</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
     <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust logo" />
-    <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go logo" />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+    <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go logo" />
   </div>
 </div>
 
@@ -39,6 +39,7 @@ Currently specialized in DevOps Engineering and Cloud Infrastructure.
   <h2>DevOps & Cloud</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 100%;">
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP logo" />
     <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure logo" />
     <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes logo" />
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
